@@ -1,3 +1,5 @@
+# Created by Saad Naveed...not like anyone cares tho #
+
 require_relative "deck"
 require_relative "hand"
 require_relative "round"
